@@ -1,2 +1,2 @@
-# chronic_kidney_disease
+# Chronic Kidney Disease - UCI Machine Learning Dataset
 Repository for Chronic Kidney Disease - UCI Machine Learning Dataset analysis
